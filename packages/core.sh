@@ -12,6 +12,6 @@ paru -S --needed --noconfirm \
     direnv \
     eza \
     starship \
-    asdf-vm \
+    mise \
     ttf-jetbrains-mono-nerd \
     ghostty

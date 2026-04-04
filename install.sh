@@ -34,6 +34,9 @@ bash "$DOTFILES/packages/browser.sh"
 echo "==> Installing dev tools..."
 bash "$DOTFILES/packages/dev.sh"
 
+echo "==> Installing Docker..."
+bash "$DOTFILES/packages/docker.sh"
+
 echo "==> Linking dotfiles via stow..."
 cd "$DOTFILES" && stow doom zsh ghostty hypr waybar fuzzel
 

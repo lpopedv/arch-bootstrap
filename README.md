@@ -28,7 +28,3 @@ cd ~/.dotfiles
 │   └── dev.sh        # Editor and dev tools
 └── config/           # Stow-managed dotfiles
 ```
-
-## License
-
-MIT

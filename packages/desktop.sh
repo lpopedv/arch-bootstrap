@@ -8,4 +8,5 @@ paru -S --needed --noconfirm \
     htop \
     wiremix \
     fuzzel \
-    hyprpaper
+    hyprpaper \
+    mpv

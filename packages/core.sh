@@ -15,4 +15,5 @@ paru -S --needed --noconfirm \
     mise \
     ttf-jetbrains-mono-nerd \
     ghostty \
-    inotify-tools
+    inotify-tools \
+    unzip

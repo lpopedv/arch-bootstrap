@@ -14,6 +14,7 @@ paru -S --needed --noconfirm \
     starship \
     mise \
     ttf-jetbrains-mono-nerd \
+    noto-fonts-emoji \
     ghostty \
     inotify-tools \
     unzip

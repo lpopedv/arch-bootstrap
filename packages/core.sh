@@ -14,4 +14,5 @@ paru -S --needed --noconfirm \
     starship \
     mise \
     ttf-jetbrains-mono-nerd \
-    ghostty
+    ghostty \
+    inotify-tools

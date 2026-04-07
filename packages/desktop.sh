@@ -9,5 +9,4 @@ paru -S --needed --noconfirm \
     wiremix \
     fuzzel \
     hyprpaper \
-    mpv \
-    anytype-bin
+    mpv

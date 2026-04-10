@@ -34,9 +34,6 @@ bash "$DOTFILES/packages/browser.sh"
 echo "==> Installing dev tools..."
 bash "$DOTFILES/packages/dev.sh"
 
-echo "==> Installing file manager..."
-bash "$DOTFILES/packages/files.sh"
-
 echo "==> Installing apps..."
 bash "$DOTFILES/packages/apps.sh"
 

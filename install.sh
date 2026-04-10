@@ -25,9 +25,6 @@ bash "$DOTFILES/packages/paru.sh"
 echo "==> Installing core packages..."
 bash "$DOTFILES/packages/core.sh"
 
-echo "==> Installing desktop environment..."
-bash "$DOTFILES/packages/desktop.sh"
-
 echo "==> Installing audio..."
 bash "$DOTFILES/packages/audio.sh"
 
